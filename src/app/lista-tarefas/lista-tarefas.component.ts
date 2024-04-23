@@ -6,6 +6,7 @@ import { TarefaService } from 'src/app/service/tarefa.service';
 import {
   checkButtonTrigger,
   filterTrigger,
+  formButtonTrigger,
   highlightedStateTrigger,
   shownStateTrigger,
 } from '../animations';
@@ -20,6 +21,7 @@ import { Tarefa } from '../models/tarefa';
     shownStateTrigger,
     checkButtonTrigger,
     filterTrigger,
+    formButtonTrigger,
   ],
 })
 export class ListaTarefasComponent implements OnInit {
