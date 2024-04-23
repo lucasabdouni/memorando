@@ -39,20 +39,20 @@
       "id": "7",
       "descricao": "Alimentar os gatos",
       "categoria": "Casa",
-      "statusFinalizado": true,
+      "statusFinalizado": false,
       "prioridade": "Alta"
     },
     {
       "id": "8",
       "descricao": "Refatorar código",
       "categoria": "Trabalho",
-      "statusFinalizado": true,
+      "statusFinalizado": false,
       "prioridade": "Normal"
     },
     {
       "id": "9",
       "descricao": "Fazer curso de animações",
-      "statusFinalizado": true,
+      "statusFinalizado": false,
       "categoria": "Estudos",
       "prioridade": "Alta"
     },
@@ -78,14 +78,14 @@
       "prioridade": "Alta"
     },
     {
-      "id": null,
+      "id": "13",
       "descricao": "card",
       "statusFinalizado": false,
       "categoria": "Trabalho",
       "prioridade": "Alta"
     },
     {
-      "id": null,
+      "id": "14",
       "descricao": "Angular",
       "statusFinalizado": false,
       "categoria": "Trabalho",
