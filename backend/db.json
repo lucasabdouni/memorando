@@ -46,13 +46,13 @@
       "id": "8",
       "descricao": "Refatorar código",
       "categoria": "Trabalho",
-      "statusFinalizado": false,
+      "statusFinalizado": true,
       "prioridade": "Normal"
     },
     {
       "id": "9",
       "descricao": "Fazer curso de animações",
-      "statusFinalizado": false,
+      "statusFinalizado": true,
       "categoria": "Estudos",
       "prioridade": "Alta"
     },
@@ -87,6 +87,13 @@
     {
       "id": "14",
       "descricao": "Angular",
+      "statusFinalizado": false,
+      "categoria": "Trabalho",
+      "prioridade": "Alta"
+    },
+    {
+      "id": "KO_tzuR",
+      "descricao": "Frango",
       "statusFinalizado": false,
       "categoria": "Trabalho",
       "prioridade": "Alta"
